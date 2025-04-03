@@ -11,15 +11,6 @@ A comprehensive interactive dashboard visualizing AI's impact on the job market,
 - 🔄 Job displacement vs creation analysis
 - ⭐ Global AI skills ranking
 
-## Table of Contents
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Running the Application](#running-the-application)
-- [Development Setup](#development-setup)
-- [Data Description](#data-description)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
-
 ## Dashboard Components
 
 ### 1. Overview Metrics
