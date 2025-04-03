@@ -1,5 +1,6 @@
 # AI-Impact-Dashboard-
 A comprehensive interactive dashboard visualizing AI's impact on the job market, including job trends, skills analysis, salary insights, and career pathways in the AI field.
+
 <img width="1439" alt="Screenshot 2024-10-23 at 4 47 06 PM" src="https://github.com/user-attachments/assets/d469ca46-d82e-4cb7-8a05-acbf56797c18">
 
 ## Features
@@ -35,38 +36,21 @@ A comprehensive interactive dashboard visualizing AI's impact on the job market,
 
 The dashboard utilizes multiple datasets:
 python
-datasets = {
-    'career_pathway': 'Career progression paths',
-    'job_demand': 'Job posting trends',
-    'displacement': 'AI impact on employment',
-    'salaries': 'Role-based salary data',
-    'skills_penetration': 'Industry AI adoption',
-    'global_skills': 'Skill importance ranking'
-}
+datasets 
+- career_pathway': 'Career progression paths'
+- job_demand: 'Job posting trends
+- displacement: 'AI impact on employment',
+- salaries: 'Role-based salary data',
+- skills_penetration: 'Industry AI adoption',
+- global_skills: 'Skill importance ranking'
+
 
 
 ## Browser Support
-- Chrome (80+)
-- Firefox (75+)
-- Safari (13+)
-- Edge (80+)
-
-## Troubleshooting
-
-### Common Issues
-
-1. Port Conflicts
-python
-# Modify in app.py
-port = int(os.environ.get('PORT', 8051))  # Change port number
-
-
-2. Data Loading Errors
-python
-# Check file paths
-import os
-print("Working Directory:", os.getcwd())
-print("Available Files:", os.listdir('data'))
+- Chrome
+- Firefox 
+- Safari 
+- Edge 
 
 ## Dependencies
 
